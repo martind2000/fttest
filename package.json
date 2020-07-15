@@ -1,0 +1,23 @@
+{
+  "name": "fttest",
+  "version": "1.0.0",
+  "description": "Retrieve json from remote site",
+  "main": "request-multiple-urls.js",
+  "scripts": {
+    "test": "node tests/request-multiple-urls.tape.js",
+    "test:mocha": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^7.4.0",
+    "mocha": "^8.0.1",
+    "nock": "^13.0.2",
+    "tape": "^5.0.1",
+    "tape-promise": "^4.0.0"
+  }
+}
