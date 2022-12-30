@@ -15,7 +15,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "eslint": "^7.4.0",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "nock": "^13.0.2",
     "tape": "^5.0.1",
     "tape-promise": "^4.0.0"
